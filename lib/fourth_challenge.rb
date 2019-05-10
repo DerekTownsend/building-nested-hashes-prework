@@ -41,7 +41,7 @@ def fourth_challenge
       ]
    }
 }
-epic_tragedy[:montague][:hero][:status]
-epic_tragedy[:capulet][:heroine][:status]
+epic_tragedy[:montague][:hero][:status]="dead"
+epic_tragedy[:capulet][:heroine][:status]="dead"
 
 end
