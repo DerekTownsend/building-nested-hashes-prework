@@ -41,7 +41,7 @@ def fourth_challenge
       ]
    }
 }
-
-
+epic_tragedy[:montague][:hero][:status]
+epic_tragedy[:capulet][:heroine][:status]
 
 end
