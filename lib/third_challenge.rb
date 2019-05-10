@@ -19,14 +19,14 @@ def third_challenge
         },
       :hero_friends => [
         {
-            name:"",
-            age:"",
-            attitude:""
+            name:"Benvolio",
+            age:"17",
+            attitude:"worried"
         },
         {
-            name:"",
-            age:"",
-            attitude:""
+            name:"Mercutio",
+            age:"18",
+            attitude:"hot-headed"
         }
       ]
    },
